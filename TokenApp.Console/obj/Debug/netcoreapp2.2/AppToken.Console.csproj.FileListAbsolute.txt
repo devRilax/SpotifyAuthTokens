@@ -1,0 +1,14 @@
+C:\Users\Danilo\Source\Repos\AppTokens\TokenApp.Console\bin\Debug\netcoreapp2.2\AppToken.Console.deps.json
+C:\Users\Danilo\Source\Repos\AppTokens\TokenApp.Console\bin\Debug\netcoreapp2.2\AppToken.Console.runtimeconfig.json
+C:\Users\Danilo\Source\Repos\AppTokens\TokenApp.Console\bin\Debug\netcoreapp2.2\AppToken.Console.runtimeconfig.dev.json
+C:\Users\Danilo\Source\Repos\AppTokens\TokenApp.Console\bin\Debug\netcoreapp2.2\AppToken.Console.dll
+C:\Users\Danilo\Source\Repos\AppTokens\TokenApp.Console\bin\Debug\netcoreapp2.2\AppToken.Console.pdb
+C:\Users\Danilo\Source\Repos\AppTokens\TokenApp.Console\bin\Debug\netcoreapp2.2\AppToken.Services.dll
+C:\Users\Danilo\Source\Repos\AppTokens\TokenApp.Console\bin\Debug\netcoreapp2.2\AppToken.Services.pdb
+C:\Users\Danilo\Source\Repos\AppTokens\TokenApp.Console\obj\Debug\netcoreapp2.2\AppToken.Console.csprojAssemblyReference.cache
+C:\Users\Danilo\Source\Repos\AppTokens\TokenApp.Console\obj\Debug\netcoreapp2.2\AppToken.Console.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\Source\Repos\AppTokens\TokenApp.Console\obj\Debug\netcoreapp2.2\AppToken.Console.AssemblyInfoInputs.cache
+C:\Users\Danilo\Source\Repos\AppTokens\TokenApp.Console\obj\Debug\netcoreapp2.2\AppToken.Console.AssemblyInfo.cs
+C:\Users\Danilo\Source\Repos\AppTokens\TokenApp.Console\obj\Debug\netcoreapp2.2\AppToken.Console.csproj.CopyComplete
+C:\Users\Danilo\Source\Repos\AppTokens\TokenApp.Console\obj\Debug\netcoreapp2.2\AppToken.Console.dll
+C:\Users\Danilo\Source\Repos\AppTokens\TokenApp.Console\obj\Debug\netcoreapp2.2\AppToken.Console.pdb

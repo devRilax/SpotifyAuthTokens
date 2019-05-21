@@ -1,0 +1,17 @@
+C:\Users\Danilo\Source\Repos\AppTokens\AppTokens.Api\bin\Debug\netcoreapp2.2\AppToken.Api.deps.json
+C:\Users\Danilo\Source\Repos\AppTokens\AppTokens.Api\bin\Debug\netcoreapp2.2\AppToken.Api.runtimeconfig.json
+C:\Users\Danilo\Source\Repos\AppTokens\AppTokens.Api\bin\Debug\netcoreapp2.2\AppToken.Api.runtimeconfig.dev.json
+C:\Users\Danilo\Source\Repos\AppTokens\AppTokens.Api\bin\Debug\netcoreapp2.2\AppToken.Api.dll
+C:\Users\Danilo\Source\Repos\AppTokens\AppTokens.Api\bin\Debug\netcoreapp2.2\AppToken.Api.pdb
+C:\Users\Danilo\Source\Repos\AppTokens\AppTokens.Api\bin\Debug\netcoreapp2.2\AppToken.Services.dll
+C:\Users\Danilo\Source\Repos\AppTokens\AppTokens.Api\bin\Debug\netcoreapp2.2\AppToken.Services.pdb
+C:\Users\Danilo\Source\Repos\AppTokens\AppTokens.Api\obj\Debug\netcoreapp2.2\AppToken.Api.csprojAssemblyReference.cache
+C:\Users\Danilo\Source\Repos\AppTokens\AppTokens.Api\obj\Debug\netcoreapp2.2\AppToken.Api.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\Source\Repos\AppTokens\AppTokens.Api\obj\Debug\netcoreapp2.2\AppToken.Api.RazorAssemblyInfo.cache
+C:\Users\Danilo\Source\Repos\AppTokens\AppTokens.Api\obj\Debug\netcoreapp2.2\AppToken.Api.RazorAssemblyInfo.cs
+C:\Users\Danilo\Source\Repos\AppTokens\AppTokens.Api\obj\Debug\netcoreapp2.2\AppToken.Api.AssemblyInfoInputs.cache
+C:\Users\Danilo\Source\Repos\AppTokens\AppTokens.Api\obj\Debug\netcoreapp2.2\AppToken.Api.AssemblyInfo.cs
+C:\Users\Danilo\Source\Repos\AppTokens\AppTokens.Api\obj\Debug\netcoreapp2.2\AppToken.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Danilo\Source\Repos\AppTokens\AppTokens.Api\obj\Debug\netcoreapp2.2\AppToken.Api.csproj.CopyComplete
+C:\Users\Danilo\Source\Repos\AppTokens\AppTokens.Api\obj\Debug\netcoreapp2.2\AppToken.Api.dll
+C:\Users\Danilo\Source\Repos\AppTokens\AppTokens.Api\obj\Debug\netcoreapp2.2\AppToken.Api.pdb
