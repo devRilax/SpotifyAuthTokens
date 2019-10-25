@@ -6,3 +6,11 @@ C:\Users\Danilo\Source\Repos\AppTokens\AppToken.Services\obj\Debug\netcoreapp2.2
 C:\Users\Danilo\Source\Repos\AppTokens\AppToken.Services\obj\Debug\netcoreapp2.2\AppToken.Services.AssemblyInfo.cs
 C:\Users\Danilo\Source\Repos\AppTokens\AppToken.Services\obj\Debug\netcoreapp2.2\AppToken.Services.dll
 C:\Users\Danilo\Source\Repos\AppTokens\AppToken.Services\obj\Debug\netcoreapp2.2\AppToken.Services.pdb
+C:\Users\DaniloCaro\Desktop\DEVS\Backend\SpotifyAuth\AppToken.Services\bin\Debug\netcoreapp2.2\AppToken.Services.deps.json
+C:\Users\DaniloCaro\Desktop\DEVS\Backend\SpotifyAuth\AppToken.Services\bin\Debug\netcoreapp2.2\AppToken.Services.dll
+C:\Users\DaniloCaro\Desktop\DEVS\Backend\SpotifyAuth\AppToken.Services\bin\Debug\netcoreapp2.2\AppToken.Services.pdb
+C:\Users\DaniloCaro\Desktop\DEVS\Backend\SpotifyAuth\AppToken.Services\obj\Debug\netcoreapp2.2\AppToken.Services.csprojAssemblyReference.cache
+C:\Users\DaniloCaro\Desktop\DEVS\Backend\SpotifyAuth\AppToken.Services\obj\Debug\netcoreapp2.2\AppToken.Services.AssemblyInfoInputs.cache
+C:\Users\DaniloCaro\Desktop\DEVS\Backend\SpotifyAuth\AppToken.Services\obj\Debug\netcoreapp2.2\AppToken.Services.AssemblyInfo.cs
+C:\Users\DaniloCaro\Desktop\DEVS\Backend\SpotifyAuth\AppToken.Services\obj\Debug\netcoreapp2.2\AppToken.Services.dll
+C:\Users\DaniloCaro\Desktop\DEVS\Backend\SpotifyAuth\AppToken.Services\obj\Debug\netcoreapp2.2\AppToken.Services.pdb

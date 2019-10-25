@@ -1,0 +1,14 @@
+C:\Users\DaniloCaro\Desktop\DEVS\Backend\SpotifyAuth\TokenApp.Console\bin\Debug\netcoreapp2.1\AppToken.Console.deps.json
+C:\Users\DaniloCaro\Desktop\DEVS\Backend\SpotifyAuth\TokenApp.Console\bin\Debug\netcoreapp2.1\AppToken.Console.runtimeconfig.json
+C:\Users\DaniloCaro\Desktop\DEVS\Backend\SpotifyAuth\TokenApp.Console\bin\Debug\netcoreapp2.1\AppToken.Console.runtimeconfig.dev.json
+C:\Users\DaniloCaro\Desktop\DEVS\Backend\SpotifyAuth\TokenApp.Console\bin\Debug\netcoreapp2.1\AppToken.Console.dll
+C:\Users\DaniloCaro\Desktop\DEVS\Backend\SpotifyAuth\TokenApp.Console\bin\Debug\netcoreapp2.1\AppToken.Console.pdb
+C:\Users\DaniloCaro\Desktop\DEVS\Backend\SpotifyAuth\TokenApp.Console\bin\Debug\netcoreapp2.1\AppToken.Services.dll
+C:\Users\DaniloCaro\Desktop\DEVS\Backend\SpotifyAuth\TokenApp.Console\bin\Debug\netcoreapp2.1\AppToken.Services.pdb
+C:\Users\DaniloCaro\Desktop\DEVS\Backend\SpotifyAuth\TokenApp.Console\obj\Debug\netcoreapp2.1\AppToken.Console.csprojAssemblyReference.cache
+C:\Users\DaniloCaro\Desktop\DEVS\Backend\SpotifyAuth\TokenApp.Console\obj\Debug\netcoreapp2.1\AppToken.Console.AssemblyInfoInputs.cache
+C:\Users\DaniloCaro\Desktop\DEVS\Backend\SpotifyAuth\TokenApp.Console\obj\Debug\netcoreapp2.1\AppToken.Console.AssemblyInfo.cs
+C:\Users\DaniloCaro\Desktop\DEVS\Backend\SpotifyAuth\TokenApp.Console\obj\Debug\netcoreapp2.1\AppToken.Console.csproj.CopyComplete
+C:\Users\DaniloCaro\Desktop\DEVS\Backend\SpotifyAuth\TokenApp.Console\obj\Debug\netcoreapp2.1\AppToken.Console.dll
+C:\Users\DaniloCaro\Desktop\DEVS\Backend\SpotifyAuth\TokenApp.Console\obj\Debug\netcoreapp2.1\AppToken.Console.pdb
+C:\Users\DaniloCaro\Desktop\DEVS\Backend\SpotifyAuth\TokenApp.Console\obj\Debug\netcoreapp2.1\AppToken.Console.csproj.CoreCompileInputs.cache

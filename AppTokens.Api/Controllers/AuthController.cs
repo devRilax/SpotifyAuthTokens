@@ -19,7 +19,7 @@ namespace AppTokens.Api.Controllers
         {
             try
             {
-                var result = TokenService.Get();
+                var result = TokenService.Auth("dcaro", "1234");
                 return Ok(result);
             }
             catch (Exception ex)
