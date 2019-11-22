@@ -1,12 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using AppToken.Services;
-using AppToken.Services.models;
-using Microsoft.AspNetCore.Cors;
+using AppToken.Api.Settings;
+using Microsoft.Extensions.Configuration;
 
 namespace AppTokens.Api.Controllers
 {
@@ -14,12 +11,21 @@ namespace AppTokens.Api.Controllers
     [ApiController]
     public class AuthController : ControllerBase
     {
-        [HttpGet]
-        public ActionResult<IEnumerable<string>> Get()
+        IConfiguration _configuration;
+        ISetting _configurationSpotify;
+
+        public AuthController(IConfiguration config)
+        {
+            _configuration = config;
+            _configurationSpotify = new SpotifySetting(_configuration);
+        }
+
+        [HttpGet("{username}/{password}")]
+        public ActionResult<IEnumerable<string>> Get(string username, string password)
         {
             try
             {
-                var result = TokenService.Get();
+                var result = TokenService.Get(username, password, _configurationSpotify);
                 return Ok(result);
             }
             catch (Exception ex)

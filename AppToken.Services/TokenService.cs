@@ -1,27 +1,29 @@
 ﻿using System.Collections.Generic;
-using System.Net;
 using System.Net.Http;
 using AppToken.Services.models;
+using AppToken.Services.repositories;
 using Newtonsoft.Json;
+using System.Linq;
 
 
 namespace AppToken.Services
 {
     public static class TokenService
     {
-        private  const string TOKEN_URL = "https://accounts.spotify.com/api/token";
-
-        public static ResponseEntity Get()
+        public static ResponseEntity Get(string username, string password, ISetting config)
         {
-            ResponseEntity responseEntity = new ResponseEntity();
 
-            string TOKEN_URL = "https://accounts.spotify.com/api/token";
+            ResponseEntity responseEntity = new ResponseEntity();
+            if (!_checkValidationCredentials(username, password))
+            {
+                return new ResponseEntity(false, "Invalid credentials");
+            }
 
             var client = new HttpClient();
 
-            var parameters = _getAuthenticationParameters();
+            var parameters = _getAuthenticationParameters(config);
             var payload = new FormUrlEncodedContent(parameters);
-            var clientResponse = client.PostAsync(TOKEN_URL, payload).Result;
+            var clientResponse = client.PostAsync(config.TokenUrl, payload).Result;
 
 
             if (clientResponse.IsSuccessStatusCode)
@@ -38,17 +40,22 @@ namespace AppToken.Services
             return responseEntity;
         }
 
-        static List<KeyValuePair<string, string>> _getAuthenticationParameters()
+        static List<KeyValuePair<string, string>> _getAuthenticationParameters(ISetting config)
         {
-            string clientId = "set your client id";
-            string secret = "set your client secret";
-
             return new List<KeyValuePair<string, string>>
             {
                 new KeyValuePair<string, string>("grant_type", "client_credentials"),
-                new KeyValuePair<string, string>("client_id", clientId),
-                new KeyValuePair<string, string>("client_secret", secret)
+                new KeyValuePair<string, string>("client_id", config.ClientId),
+                new KeyValuePair<string, string>("client_secret", config.ClientSecret)
             };
+        }
+
+        private static bool _checkValidationCredentials(string username, string password)
+        {
+            var listUsers = UserRepository.All();
+            var user = listUsers.FirstOrDefault(f => f.Username == username && f.Password == password);
+
+            return (user != null);
         }
     }
 }

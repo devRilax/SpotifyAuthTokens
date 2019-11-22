@@ -9,5 +9,15 @@ namespace AppToken.Services.models
         public bool successful { get; set; }
         public string message { get; set; }
         public Object data { get; set; }
+
+        public ResponseEntity()
+        {
+
+        }
+        public ResponseEntity(bool successful, string message)
+        {
+            this.successful = successful;
+            this.message = message;
+        }
     }
 }
